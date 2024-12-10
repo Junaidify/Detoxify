@@ -1,2 +1,2 @@
 # Detoxify
-Give it a try to detoxify Feed
+Give it a try to detoxify MY Feed
